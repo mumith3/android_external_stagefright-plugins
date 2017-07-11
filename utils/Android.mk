@@ -7,7 +7,7 @@ LOCAL_SRC_FILES := \
 	ffmpeg_source.cpp \
 	ffmpeg_utils.cpp \
 	ffmpeg_cmdutils.c \
-	codec_utils.cpp
+	#codec_utils.cpp
 
 LOCAL_C_INCLUDES += \
 	$(TOP)/frameworks/native/include/media/openmax \

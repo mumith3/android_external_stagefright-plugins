@@ -4,7 +4,7 @@ include $(CLEAR_VARS)
 include external/ffmpeg/android/ffmpeg.mk
 
 LOCAL_SRC_FILES := \
-	FFmpegExtractor.cpp
+	#FFmpegExtractor.cpp
 
 LOCAL_C_INCLUDES += \
 	$(LOCAL_PATH)/.. \
